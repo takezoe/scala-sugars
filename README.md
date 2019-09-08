@@ -1,4 +1,4 @@
-scala-sugars
+scala-sugars [![Actions Status](https://github.com/takezoe/scala-sugars/workflows/CI/badge.svg)](https://github.com/takezoe/scala-sugars/actions)
 ========
 
 Some useful syntax sugars for Scala.
